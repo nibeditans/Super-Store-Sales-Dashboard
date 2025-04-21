@@ -11,12 +11,12 @@ You can check out the complete article on this this Project: [Super Store Sales 
 ### Super Store Sales Dashboard
 The dashboard is designed to provide an intuitive and visually appealing interface for users to explore key performance indicators (KPIs) and sales data. It includes interactive visualizations and filtering capabilities to allow for detailed analysis at various levels of granularity.
 
-![Super Store Sales Dashboard](https://github.com/nibeditans/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Slaes%20Dashboard.png)
+![Super Store Sales Dashboard](https://github.com/nibeditans/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Report.png)
 
 ### Super Store Sales Forecast - 15 Days
 This component utilizes historical sales data and time series analysis techniques to generate sales forecasts for the next 15 days. These forecasts enable proactive decision-making and resource allocation within the supermarket.
 
-![Super Store Sales Forecast - 15 Days](https://github.com/nibeditans/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Forecasting.png)
+![Super Store Sales Forecast - 15 Days](https://github.com/nibeditans/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20-%2015%20Days%20Forecast%20Report.png)
 
 ## Explanation
 The project encompasses several detailed components:
