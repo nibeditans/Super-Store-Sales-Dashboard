@@ -16,7 +16,7 @@ The dashboard is designed to provide an intuitive and visually appealing interfa
 ### Super Store Sales Forecast - 15 Days
 This component utilizes historical sales data and time series analysis techniques to generate sales forecasts for the next 15 days. These forecasts enable proactive decision-making and resource allocation within the supermarket.
 
-![Super Store Sales Forecast - 15 Days](https://github.com/nibeditans/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20-%2015%20Days%20Forecast%20Report.png)
+![Super Store Sales Forecast - 15 Days](https://github.com/nibeditans/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20-%2015%20Days%20Sales%20Forecast.png)
 
 ## Explanation
 The project encompasses several detailed components:
