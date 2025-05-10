@@ -25,6 +25,11 @@ The project encompasses several detailed components:
 3. **Sales Forecasting:** Historical data was leveraged, and time series analysis techniques were applied to generate sales forecasts for the next 15 days. This forecasting aids in proactive decision-making and resource allocation.
 4. **Actionable Insights and Recommendations:** The ultimate goal is to share valuable insights and actionable information that can drive strategic decision-making. Recommendations are provided to support the supermarket's goals for growth, efficiency, and customer satisfaction.
 
+📊 **Super Store Sales Analysis Presentation:**  
+A comprehensive slide deck summarizing key insights, visualizations, and forecasting from my data science project on Super Store sales. 
+- [View the Presentation PDF](https://github.com/nibeditans/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Analysis%20Presentation.pdf)
+
+
 
 ## Project Learning
 Throughout this project, various data analysis techniques were incorporated, with a focus on time series analysis. Skills such as data visualization, statistical analysis, and communication of findings to stakeholders were developed and refined.
