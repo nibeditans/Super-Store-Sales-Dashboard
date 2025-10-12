@@ -4,7 +4,7 @@
 The objective of the "Super Store Sales Dashboard" project is to contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
 ## Description
-This project involves the creation of two main components: "Super Store Sales Dashboard" and "Super Store Sales Forecast - 15 Days".
+This project involves the creation of two main components: `Super Store Sales Dashboard` and `Super Store Sales Forecast - 15 Days`.
 
 You can check out the complete article I've written on this Project: [Super Store Sales Dashboard & Forecasting](https://nsworldinfo.medium.com/super-store-sales-dashboard-forecasting-b2252da4f726)
 
