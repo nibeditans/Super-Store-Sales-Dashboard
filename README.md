@@ -29,7 +29,7 @@ The project encompasses several detailed components:
 A comprehensive slide deck summarizing key insights, visualizations, and forecasting from my data science project on Super Store sales. 
 - [View the Presentation PDF](https://github.com/nibeditans/Super-Store-Sales-Dashboard/blob/main/Super%20Store%20Sales%20Analysis%20Presentation.pdf)
 
-
+Wanna explore more Projects and Fun Programs? Check out the [Data Analytics Projects Collection](https://github.com/nibeditans/A-Few-Data-Analytics-Projects) Page.😄
 
 ## Project Learning
 Throughout this project, various data analysis techniques were incorporated, with a focus on time series analysis. Skills such as data visualization, statistical analysis, and communication of findings to stakeholders were developed and refined.
